@@ -1,5 +1,5 @@
 const Game = require('../src/game').default
-// const fs = require('fs')
+// com const fs = require('fs')
 
 describe('App', () => {
   it('Contains the compiled JavaScript', async () => {
